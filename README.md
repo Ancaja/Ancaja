@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Antonio, I'm 30 years old and i work as computer technician since 2012.
+- 👋 Hi, I’m Toni, I'm 30 years old and i work as computer technician since 2012.
 - 👀 I’m interested in astronomy, computer science and soccer.
 - 🌱 I’m currently learning frameworks like Flask and Django.
 - 💞️ I’m looking to collaborate some Python project to improve my skills.
