@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Toni, I'm 32 years old and i work as computer technician since 2012.
-- 👀 I’m interested in astronomy, computer science and soccer.
+- 👋 Hi, I’m Toni, I'm 32 years old and i work as an IT Support Specialist since 2012.
+- 👀 I’m interested in astronomy, computer science and science fiction stories.
 - 🌱 I’m currently learning frameworks like Flask and Django.
 - 💞️ I’m looking to collaborate some Python project to improve my skills.
 - 📫 Contact me to ancajapy@gmail.com
